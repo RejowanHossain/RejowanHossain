@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a ... Front-end Developer & Design Enthusiast
-- 😄 Enthusiastic about ... Vue, Angular, UI/UX
+- 😄 Enthusiastic about ... UI/UX, PHP, WordPress
 - 🎞 Portfolio: ... https://hrezwan.netlify.app/
-- ✨See my UI Designs: https://www.behance.net/hrezwan
 - 📫 How to reach me: ... h.rezwan@outlook.com
